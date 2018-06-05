@@ -1,0 +1,7 @@
+step by step
+step 1 : git clone caffe on ubuntu
+step 2 : downlord DRML source codes
+step 3 : rewrite some source codes to fit new version caffe
+         1.each layer added in caffe should have it's own hpp but not common_layer.hpp
+         2.caffe.proto need rewrite
+step 4 : preprocess data
